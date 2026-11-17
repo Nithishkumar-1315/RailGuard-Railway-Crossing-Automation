@@ -26,6 +26,30 @@ The system aims to reduce manual intervention and minimize the risk of accidents
 6. The Arduino activates the servo motors to open the railway gate.
 7. The system returns to its initial monitoring state.
 
+## Project Prototype
+
+The prototype illustrates the railway track, train, railway crossing gate, and sensors positioned before and after the gate.
+
+![Project Prototype](Image/project-prototype.png)
+
+## System Architecture
+
+The system block diagram illustrates the overall architecture of RailGuard, showing the Arduino UNO, ultrasonic sensors, servo motors, and automatic railway gate control mechanism.
+
+![System Block Diagram](Image/system-block-diagram.png)
+
+## Project Flowchart
+
+The flowchart represents the step-by-step operation of the system, including train detection, automatic gate closing, train passage, and gate opening.
+
+![Project Flowchart](Image/project-flowchart.png)
+
+## Circuit Diagram
+
+The circuit diagram illustrates the connections between the Arduino UNO, ultrasonic sensor, servo motors, and power supply.
+
+![Circuit Diagram](Image/circuit-diagram.png)
+
 ## Hardware Components
 
 - Arduino UNO
