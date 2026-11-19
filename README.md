@@ -27,6 +27,14 @@ The system aims to reduce manual intervention and minimize the risk of accidents
 7. The system returns to its initial monitoring state.
 
 
+## Source Code
+
+The Arduino UNO source code for the Automatic Railway Gate Control System is available below:
+
+[View Arduino Source Code](Arduino_Code/Automatic_Railway_Gate.ino)
+
+
+
 
 ## Project Images
 
