@@ -27,21 +27,21 @@ The system aims to reduce manual intervention and minimize the risk of accidents
 7. The system returns to its initial monitoring state.
 
 
-## Project Prototype
 
-![Project Prototype](image/project-prototype.png)
+## Project Images
 
-## System Block Diagram
+### Project Prototype
+![Project Prototype](./project-prototype.png.jpeg)
 
-![System Block Diagram](image/system-block-diagram.png)
+### System Block Diagram
+![System Block Diagram](./system-block-diagram.png.png)
 
-## Project Flowchart
+### Project Flowchart
+![Project Flowchart](./project-flowchart.png.png)
 
-![Project Flowchart](image/project-flowchart.png)
+### Circuit Diagram
+![Circuit Diagram](./circuit-diagram.png.png)
 
-## Circuit Diagram
-
-![Circuit Diagram](image/circuit-diagram.png)
 
 ## Hardware Components
 
